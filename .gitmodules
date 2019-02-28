@@ -1,3 +1,6 @@
 [submodule "tshirtshop-api"]
 	path = tshirtshop-api
 	url = https://github.com/RaiTamarindo/tshirtshop-api.git
+[submodule "tshirtshop-webapp"]
+	path = tshirtshop-webapp
+	url = https://github.com/RaiTamarindo/tshirtshop-webapp.git
